@@ -13,5 +13,8 @@ Um aplicativo simples e funcional para realizar sorteios de Amigo Secreto. Adici
 - **CSS3**: Para estilização da interface.
 - **JavaScript**: Para lógica de sorteio e interação dinâmica com o usuário.
 
+Link do Jogo abaixo 🎮🕹
+https://marceloguilherme100.github.io/Amigo-Secreto-Oracle_Alura/
+
 
 
